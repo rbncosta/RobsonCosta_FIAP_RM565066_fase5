@@ -53,8 +53,7 @@ O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do
 ### Opção 2 — Local (Jupyter Notebook ou VSCode)
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/SEU_USUARIO/farmtech-fiap-fase5.git
-   cd farmtech-fiap-fase5
+   git clone https://github.com/rbncosta/RobsonCosta_FIAP_RM565066_fase5.git   
    ```
 2. Instale as dependências:  
    ```bash
