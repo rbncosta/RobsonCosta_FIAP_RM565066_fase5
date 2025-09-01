@@ -40,7 +40,7 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 ## ▶️ Demonstração em Vídeo
 O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
 
-🔗 [Clique aqui para assistir ao vídeo no YouTube](https://youtu.be/FL-xDdnsxSU)
+🔗 [Clique aqui para assistir ao vídeo no YouTube](COLE_AQUI_SEU_LINK)
 
 ---
 
@@ -53,7 +53,8 @@ O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do
 ### Opção 2 — Local (Jupyter Notebook ou VSCode)
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/rbncosta/RobsonCosta_FIAP_RM565066_fase5.git   
+   git clone https://github.com/SEU_USUARIO/farmtech-fiap-fase5.git
+   cd farmtech-fiap-fase5
    ```
 2. Instale as dependências:  
    ```bash
@@ -65,24 +66,41 @@ O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do
 ---
 
 ## 📊 Entregáveis
-- **Entrega 1 — Machine Learning**  
-  - Notebook Jupyter (`.ipynb`) executado e comentado.  
-  - Relatório em Markdown dentro do notebook.  
-  - Análise de EDA, clusterização, outliers e predição com 5 modelos.  
-  - Métricas de desempenho + diagnósticos finais.  
-  - Vídeo demonstrativo (até 5 minutos).  
+### Entrega 1 — Machine Learning
+- Notebook Jupyter (`.ipynb`) executado e comentado.  
+- Relatório em Markdown dentro do notebook.  
+- Análise de EDA, clusterização, outliers e predição com 5 modelos.  
+- Métricas de desempenho + diagnósticos finais.  
+- Vídeo demonstrativo (até 5 minutos).  
 
-- **Entrega 2 — Computação em Nuvem**  
-  - Estimativa de custos AWS (On-Demand) para hospedar a solução.  
-  - Comparação entre região **São Paulo (sa-east-1)** e **N. Virgínia (us-east-1)**.  
-  - Justificativa da escolha considerando custo e requisitos legais.  
-  - Gráfico comparativo incluído em `assets/aws_costs.png`.  
+### Entrega 2 — Computação em Nuvem (AWS)
+Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estimar os gastos mensais ao hospedar a solução de Machine Learning em nuvem com a seguinte configuração:  
+
+- 2 CPUs  
+- 1 GiB de memória  
+- Até 5 Gigabit de rede  
+- 50 GB de armazenamento  
+
+#### 💲 Resultados
+- **N. Virgínia (us-east-1):** ~US$ 11,59/mês  
+- **São Paulo (sa-east-1):** ~US$ 17,76/mês  
+
+O gráfico `assets/aws_costs.png` apresenta a comparação visual.  
+
+#### 📊 Justificativa da Escolha
+- **Custo:** N. Virgínia é cerca de 35% mais barata.  
+- **Latência:** São Paulo oferece menor latência para sensores e usuários brasileiros.  
+- **Legalidade:** Há exigências legais (LGPD) que podem obrigar o armazenamento dos dados dentro do país.  
+
+#### ✅ Decisão Final
+Apesar do custo mais baixo em N. Virgínia, a opção mais adequada é hospedar em **São Paulo (sa-east-1)**, pois garante conformidade legal, menor latência e maior confiabilidade para os dados da fazenda.  
 
 ---
 
 ## ⚠️ Observações
 - O repositório foi entregue com todas as células do notebook **executadas**, para garantir transparência na correção.  
-- O dataset `crop_yield.csv` foi incluído, apenas por meio do download do arquivo disponibilizado no portal FIAP.  
+- Não serão realizados novos commits após a data de entrega, conforme instruções da FIAP.  
+- O dataset `crop_yield.csv` não foi incluído, pois já é disponibilizado no portal FIAP.  
 
 ---
 
