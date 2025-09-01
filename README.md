@@ -82,8 +82,7 @@ O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do
 
 ## ⚠️ Observações
 - O repositório foi entregue com todas as células do notebook **executadas**, para garantir transparência na correção.  
-- Não serão realizados novos commits após a data de entrega, conforme instruções da FIAP.  
-- O dataset `crop_yield.csv` não foi incluído, pois já é disponibilizado no portal FIAP.  
+- O dataset `crop_yield.csv` foi incluído, apenas por meio do download do arquivo disponibilizado no portal FIAP.  
 
 ---
 
