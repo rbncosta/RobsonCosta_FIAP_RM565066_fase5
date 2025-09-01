@@ -40,7 +40,7 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 ## ▶️ Demonstração em Vídeo
 O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
 
-🔗 [Clique aqui para assistir ao vídeo no YouTube](COLE_AQUI_SEU_LINK)
+🔗 [Clique aqui para assistir ao vídeo no YouTube](https://youtu.be/FL-xDdnsxSU)
 
 ---
 
