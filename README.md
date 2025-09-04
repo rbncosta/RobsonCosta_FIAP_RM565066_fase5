@@ -44,8 +44,8 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 ### Opção 2 — Local (Jupyter Notebook ou VSCode)
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/RobsonCosta_FIAP_RM565066_fase5.git
-   cd farmtech-fiap-fase5
+   git clone https://https://github.com/rbncosta
+   cd RobsonCosta_FIAP_RM565066_fase5
    ```
 2. Instale as dependências:  
    ```bash
@@ -74,7 +74,7 @@ O vídeo demonstra a execução do notebook, os principais resultados obtidos e 
 ---
 
 ### Entrega 2 — Computação em Nuvem (AWS)
-Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estimar os gastos mensais ao hospedar a solução de Machine Learning em nuvem com a seguinte configuração:  
+Simulação de custos na **AWS Pricing Calculator** para estimar os gastos mensais ao hospedar a solução de Machine Learning em nuvem com a seguinte configuração:  
 
 - 2 CPUs  
 - 1 GiB de memória  
@@ -91,17 +91,17 @@ O vídeo demonstra a execução da estimativa de custos na calculadora da AWS.
 ---
 
 #### 💲 Resultados
-- **N. Virgínia (us-east-1):** ~US$ 11,59/mês  
-- **São Paulo (sa-east-1):** ~US$ 17,76/mês  
+- **N. Virgínia (us-east-1):** ~US$ 38,38/mês  
+- **São Paulo (sa-east-1):** ~US$ 63,80/mês  
 
-- **O gráfico apresenta a comparação dos valores entre as regiões utilizadas na estimativa:**
+- **O gráfico apresenta a comparação dos valores entre as regiões N. Virgínia x São Paulo**
 
 [![Estimativa de Custos - AWS](aws_ec2_vs_s3_comparacao.png)](aws_ec2_vs_s3_comparacao.png)
 
 #### 📊 Justificativa da Escolha
 - **Custo:** N. Virgínia é cerca de ~40% mais barato.  
-- **Latência:** São Paulo oferece menor latência para sensores e usuários brasileiros.  
-- **Legalidade:** Há exigências legais (LGPD) que podem obrigar o armazenamento dos dados dentro do país.  
+- **Latência:** São Paulo oferece menor latência para os sensores e usuários brasileiros.  
+- **Legalidade:** Há exigências legais, como por exemplo LGPD que podem obrigar o armazenamento dos dados dentro do país. 
 
 #### ✅ Decisão Final
 Apesar do custo mais baixo em N. Virgínia, a opção mais adequada é hospedar em **São Paulo (sa-east-1)**, pois garante conformidade legal, menor latência e maior confiabilidade para os dados.
@@ -110,10 +110,9 @@ Apesar do custo mais baixo em N. Virgínia, a opção mais adequada é hospedar 
 
 ## ⚠️ Observações
 - O repositório foi entregue com todas as células do notebook **executadas**, para garantir transparência na correção.  
-- Não serão realizados novos commits após a data de entrega, conforme instruções da FIAP.  
 
 ---
 
 ## 📌 Em resumo
 - Este README conduz o avaliador até o **notebook Jupyter**, onde está todo o passo a passo detalhado e descrito em Markdown sobre a análise exploratória, clusterização, modelagem e avaliação de desempenho.
-- Além disso, a seção da **Entrega 2** apresenta a **estimativa de custos na AWS** com base em diferentes regiões (N. Virgínia e São Paulo), incluindo gráficos comparativos e uma justificativa clara da escolha mais adequada para hospedar a solução de Machine Learning.
+- Além disso, a seção da **Entrega 2** apresenta a **estimativa de custos na AWS** com base em diferentes regiões (N. Virgínia e São Paulo), incluindo o gráfico comparativo e uma justificativa clara da escolha mais adequada para hospedar a solução de Machine Learning.
