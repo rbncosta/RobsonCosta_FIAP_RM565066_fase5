@@ -40,12 +40,12 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 ## ▶️ Demonstração em Vídeo - Notebook
 O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
 
-🔗 [Clique aqui para assistir ao vídeo no YouTube](https://youtu.be/FL-xDdnsxSU)
+🔗 [Clique aqui para assistir ao vídeo do Notebook no YouTube](https://youtu.be/FL-xDdnsxSU)
 
 ## ▶️ Demonstração em Vídeo - Estimativa AWS
 O vídeo explicativo, com até 5 minutos de duração, demonstra a execução da estimativa de custos na AWS.
 
-🔗 [Clique aqui para assistir ao vídeo no YouTube](https://youtu.be/4Olpto5PEUg)
+🔗 [Clique aqui para assistir ao vídeo da Estimativa no YouTube](https://youtu.be/4Olpto5PEUg)
 
 ---
 
