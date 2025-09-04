@@ -35,20 +35,6 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 
 - 🖼️ **`assets/aws_costs.png`** → Gráfico comparativo dos custos AWS (N. Virgínia x São Paulo).  
 
----
-
-## ▶️ Demonstração em Vídeo - Notebook
-O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
-
-🔗 [Clique aqui para assistir ao vídeo do Notebook no YouTube](https://youtu.be/FL-xDdnsxSU)
-
-## ▶️ Demonstração em Vídeo - Estimativa AWS
-O vídeo explicativo, com até 5 minutos de duração, demonstra a execução da estimativa de custos na AWS.
-
-🔗 [Clique aqui para assistir ao vídeo da Estimativa no YouTube](https://youtu.be/4Olpto5PEUg)
-
----
-
 ## 🚀 Como Executar
 ### Opção 1 — Google Colab
 1. Faça o upload do arquivo `RobsonCosta_rm565066_pbl_fase4.ipynb` no Colab.  
@@ -76,7 +62,16 @@ O vídeo explicativo, com até 5 minutos de duração, demonstra a execução da
 - Relatório em Markdown dentro do notebook.  
 - Análise de EDA, clusterização, outliers e predição com 5 modelos.  
 - Métricas de desempenho + diagnósticos finais.  
-- Vídeo demonstrativo (até 5 minutos).  
+- Vídeo demonstrativo (até 5 minutos).
+
+---
+
+## ▶️ Demonstração em Vídeo - Notebook
+O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
+
+🔗 [Clique aqui para assistir ao vídeo do Notebook no YouTube](https://youtu.be/FL-xDdnsxSU)
+
+---
 
 ### Entrega 2 — Computação em Nuvem (AWS)
 Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estimar os gastos mensais ao hospedar a solução de Machine Learning em nuvem com a seguinte configuração:  
@@ -84,7 +79,16 @@ Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estim
 - 2 CPUs  
 - 1 GiB de memória  
 - Até 5 Gigabit de rede  
-- 50 GB de armazenamento  
+- 50 GB de armazenamento
+
+---
+
+  ## ▶️ Demonstração em Vídeo - Estimativa AWS
+O vídeo explicativo, com até 5 minutos de duração, demonstra a execução da estimativa de custos na AWS.
+
+🔗 [Clique aqui para assistir ao vídeo da Estimativa no YouTube](https://youtu.be/4Olpto5PEUg)
+
+---
 
 #### 💲 Resultados
 - **N. Virgínia (us-east-1):** ~US$ 11,59/mês  
