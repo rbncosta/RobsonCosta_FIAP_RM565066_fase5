@@ -111,7 +111,6 @@ Apesar do custo mais baixo em N. Virgínia, a opção mais adequada é hospedar 
 ## ⚠️ Observações
 - O repositório foi entregue com todas as células do notebook **executadas**, para garantir transparência na correção.  
 - Não serão realizados novos commits após a data de entrega, conforme instruções da FIAP.  
-- O dataset `crop_yield.csv` não foi incluído, pois já é disponibilizado no portal FIAP.  
 
 ---
 
