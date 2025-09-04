@@ -37,8 +37,13 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 
 ---
 
-## ▶️ Demonstração em Vídeo
+## ▶️ Demonstração em Vídeo - Notebook
 O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
+
+🔗 [Clique aqui para assistir ao vídeo no YouTube](COLE_AQUI_SEU_LINK)
+
+## ▶️ Demonstração em Vídeo - Estimativa AWS
+O vídeo explicativo, com até 5 minutos de duração, demonstra a execução da estimativa de custos na AWS.
 
 🔗 [Clique aqui para assistir ao vídeo no YouTube](COLE_AQUI_SEU_LINK)
 
@@ -85,10 +90,10 @@ Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estim
 - **N. Virgínia (us-east-1):** ~US$ 11,59/mês  
 - **São Paulo (sa-east-1):** ~US$ 17,76/mês  
 
-O gráfico `assets/aws_costs.png` apresenta a comparação visual.  
+O gráfico `aws_ec2_vs_s3_comparacao.png` apresenta a comparação visual.  
 
 #### 📊 Justificativa da Escolha
-- **Custo:** N. Virgínia é cerca de 35% mais barata.  
+- **Custo:** N. Virgínia é cerca de ~40% mais barato.  
 - **Latência:** São Paulo oferece menor latência para sensores e usuários brasileiros.  
 - **Legalidade:** Há exigências legais (LGPD) que podem obrigar o armazenamento dos dados dentro do país.  
 
