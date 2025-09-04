@@ -100,7 +100,7 @@ Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estim
 - **Legalidade:** Há exigências legais (LGPD) que podem obrigar o armazenamento dos dados dentro do país.  
 
 #### ✅ Decisão Final
-Apesar do custo mais baixo em N. Virgínia, a opção mais adequada é hospedar em **São Paulo (sa-east-1)**, pois garante conformidade legal, menor latência e maior confiabilidade para os dados da fazenda.  
+Apesar do custo mais baixo em N. Virgínia, a opção mais adequada é hospedar em **São Paulo (sa-east-1)**, pois garante conformidade legal, menor latência e maior confiabilidade para os dados.
 
 ---
 
