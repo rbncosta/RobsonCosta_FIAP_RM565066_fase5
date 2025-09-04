@@ -1,7 +1,7 @@
 # 🌱 FarmTech Solutions — Fase 5 (FIAP)
 
 ## 👤 Integrante
-- **Nome:** Robson Costa  
+- **Nome:** Robson Alves Costa  
 - **RM:** 565066  
 - **Curso:** Inteligência Artificial – FIAP  
 - **Fase:** 5-SET-2025  
@@ -29,11 +29,11 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
   - Validação cruzada e hold-out  
   - Diagnósticos: resíduos e importância das variáveis  
 
-- 📄 **`README.md`** → Este documento introdutório, com explicação geral e instruções.  
+- 📄 **`README.md`** → Este documento introdutório, com explicação geral do projeto e instruções.  
 
 - 📦 **`requirements.txt`** → Dependências necessárias para rodar o notebook localmente.  
 
-- 🖼️ **`assets/aws_costs.png`** → Gráfico comparativo dos custos AWS (N. Virgínia x São Paulo).  
+- 🖼️ **`aws_ec2_vs_s3_comparacao.png`** → Gráfico comparativo dos custos AWS ( nas regiões N. Virgínia e São Paulo).  
 
 ## 🚀 Como Executar o Notebook
 ### Opção 1 — Google Colab
@@ -44,7 +44,7 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 ### Opção 2 — Local (Jupyter Notebook ou VSCode)
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/SEU_USUARIO/farmtech-fiap-fase5.git
+   git clone https://github.com/RobsonCosta_FIAP_RM565066_fase5.git
    cd farmtech-fiap-fase5
    ```
 2. Instale as dependências:  
