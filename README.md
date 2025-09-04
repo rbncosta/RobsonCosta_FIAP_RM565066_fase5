@@ -35,7 +35,7 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 
 - 🖼️ **`assets/aws_costs.png`** → Gráfico comparativo dos custos AWS (N. Virgínia x São Paulo).  
 
-## 🚀 Como Executar
+## 🚀 Como Executar o Notebook:
 ### Opção 1 — Google Colab
 1. Faça o upload do arquivo `RobsonCosta_rm565066_pbl_fase4.ipynb` no Colab.  
 2. Faça upload do dataset `crop_yield.csv` na mesma pasta.  
