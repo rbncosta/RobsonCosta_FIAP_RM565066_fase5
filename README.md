@@ -90,7 +90,9 @@ Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estim
 - **N. Virgínia (us-east-1):** ~US$ 11,59/mês  
 - **São Paulo (sa-east-1):** ~US$ 17,76/mês  
 
-O gráfico [aws_ec2_vs_s3_comparacao.png](aws_ec2_vs_s3_comparacao.png) apresenta a comparação visual.
+- **O gráfico apresenta a comparação dos valores entre as regiões utilizadas na estimativa:**
+
+![Estimativa de Custos - AWS](aws_estimativa_custos.png)
 
 #### 📊 Justificativa da Escolha
 - **Custo:** N. Virgínia é cerca de ~40% mais barato.  
