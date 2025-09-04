@@ -92,7 +92,7 @@ Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estim
 
 - **O gráfico apresenta a comparação dos valores entre as regiões utilizadas na estimativa:**
 
-[![Estimativa de Custos - AWS](aws_estimativa_custos.png)](aws_estimativa_custos.png)
+[![Estimativa de Custos - AWS](aws_ec2_vs_s3_comparacao.png)](aws_ec2_vs_s3_comparacao.png)
 
 #### 📊 Justificativa da Escolha
 - **Custo:** N. Virgínia é cerca de ~40% mais barato.  
