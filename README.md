@@ -35,7 +35,7 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 
 - 🖼️ **`assets/aws_costs.png`** → Gráfico comparativo dos custos AWS (N. Virgínia x São Paulo).  
 
-## 🚀 Como Executar o Notebook:
+## 🚀 Como Executar o Notebook
 ### Opção 1 — Google Colab
 1. Faça o upload do arquivo `RobsonCosta_rm565066_pbl_fase4.ipynb` no Colab.  
 2. Faça upload do dataset `crop_yield.csv` na mesma pasta.  
@@ -62,12 +62,12 @@ O desafio consiste em analisar uma base de dados com informações de **condiç�
 - Relatório em Markdown dentro do notebook.  
 - Análise de EDA, clusterização, outliers e predição com 5 modelos.  
 - Métricas de desempenho + diagnósticos finais.  
-- Vídeo demonstrativo (até 5 minutos).
+- Link dos vídeos demonstrativos.
 
 ---
 
 ## ▶️ Demonstração em Vídeo - Notebook
-O vídeo explicativo, com até 5 minutos de duração, demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
+O vídeo demonstra a execução do notebook, os principais resultados obtidos e a justificativa das escolhas de modelos.
 
 🔗 [Clique aqui para assistir ao vídeo do Notebook no YouTube](https://youtu.be/FL-xDdnsxSU)
 
@@ -84,7 +84,7 @@ Foi realizada uma simulação de custos na **AWS Pricing Calculator** para estim
 ---
 
   ## ▶️ Demonstração em Vídeo - Estimativa AWS
-O vídeo explicativo, com até 5 minutos de duração, demonstra a execução da estimativa de custos na AWS.
+O vídeo demonstra a execução da estimativa de custos na calculadora da AWS.
 
 🔗 [Clique aqui para assistir ao vídeo da Estimativa no YouTube](https://youtu.be/4Olpto5PEUg)
 
