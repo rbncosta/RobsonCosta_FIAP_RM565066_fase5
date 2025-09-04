@@ -115,4 +115,6 @@ Apesar do custo mais baixo em N. Virgínia, a opção mais adequada é hospedar 
 
 ---
 
-📌 **Em resumo:** Este README conduz o avaliador até o **notebook Jupyter**, onde está todo o passo a passo detalhado e descrito em Markdown.  
+📌 **Em resumo:** Este README conduz o avaliador até o **notebook Jupyter**, onde está todo o passo a passo detalhado e descrito em Markdown sobre a análise exploratória, clusterização, modelagem e avaliação de desempenho.
+Além disso, a seção da **Entrega 2** apresenta a **estimativa de custos na AWS** com base em diferentes regiões (N. Virgínia e São Paulo), incluindo gráficos comparativos e uma justificativa clara da escolha mais adequada para hospedar a solução de Machine Learning.
+
